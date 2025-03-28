@@ -1,0 +1,1 @@
+# Domain 7: Benefits of the GitHub Community
