@@ -14,7 +14,7 @@ This repository contains study materials for the GitHub Foundations Certificatio
 
 ## 🌐 Available Languages
 
-- [English](docs/en/README.md) (Default)
+- [English](README.md) (Default)
 - [Português](docs/pt/README.md)
 
 ## 📚 Study Domains
