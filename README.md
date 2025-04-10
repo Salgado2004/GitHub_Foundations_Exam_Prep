@@ -15,7 +15,6 @@ This repository contains study materials for the GitHub Foundations Certificatio
 ## 🌐 Available Languages
 
 - [English](README.md) (Default)
-- [Português](docs/pt/README.md)
 
 ## 📚 Study Domains
 
@@ -41,8 +40,6 @@ The certification covers 7 main domains:
 │   ├── copilot/                     # Domain 4 materials 
 │   ├── github_features_and_open_source/  # Domains 5 & 7 materials
 │   ├── enterprise_essentials/       # Domain 6 materials
-│   ├── en/                         # English documentation
-│   └── pt/                         # Portuguese documentation
 ├── .github/                        # GitHub specific files
 ├── LICENSE                         # MIT License file
 ├── README.md                       # Project documentation
