@@ -66,7 +66,7 @@
 	
 	It has a well-written README, LICENSE, CODEOFCONDUCT and CONTRIBUTING files. It has issues marked with "good first issue" or "help wanted". Setting up topics for the repository. Giving the repositoy a descriptive name.
 
-	_Reference_: [Searching for a repository](docs.github.com/en/search-github/searching-on-github/searching-for-repositories)
+	_Reference_: [Searching for a repository](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories)
 	
 - **Describe when to use issue and pull request templates**:
 	
